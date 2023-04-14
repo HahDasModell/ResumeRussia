@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+.q{
+    border: 3px solid black;
+    justify-content: center;
+    display: flex;
+    margin: 0 0 0 0;
+    background: blue;
+    font-size: 64px;
+}
+.q01{
+    border: 3px solid black;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    background: white;
+}
+.q11{
+    border: 3px solid black;
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    background: red;
+}
+.r{
+    height: 600px;
+    width: 600px;
+}
+.r1{
+    height: 600px;
+    width: 600px;
+}
+.r2{
+    height: 600px;
+    width: 600px;
+}
+.r0{
+    display: flex;
+    justify-content: center;
+}
+.t{
+    font-size: 72px;
+    display: flex;
+    justify-content: center;
+}
